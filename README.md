@@ -14,7 +14,7 @@ Presents scan results in a readable format, facilitating further analysis or int
 Lightweight and beginner-friendly, making it suitable for users of varying expertise in network security.
 Usage:
 
-Clone the repository: git clone https://github.com/hackytam/port_scanner_using_python.git
+Clone the repository: git clone https://github.com/TheFellowHacker/port_scanner_using_python.git
 Navigate to the project directory: cd port_scanner_using_python
 Execute the port scanner script: python scanner.py 
 Contributions:
